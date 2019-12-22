@@ -1,8 +1,8 @@
--- This file has been generated from package.yaml by hpack version 0.20.0.
+-- This file has been generated from package.yaml by hpack version 0.28.2.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: afd99d6efc97515aea35aa63102fb39bdda8098d061e29ccf97bf67976c184ba
+-- hash: d1467dbf7d36f06272ba62161573d3e5c26c470b6a3f5763b897e284398ac28d
 
 name:           tents-and-trees
 version:        0.1.0.0
@@ -16,7 +16,6 @@ license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
 cabal-version:  >= 1.10
-
 extra-source-files:
     ChangeLog.md
     README.md
